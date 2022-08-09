@@ -3,7 +3,7 @@
 
   ## 🤔Sobre mim.
 
-- 📚Estudante de Tecnologia em Analise e Desenvolvimento de Sistemas pela Anhanguera.
+- 📚Estudante de Tecnologia em Analise e Desenvolvimento de Sistemas.
 - 📚Estudando Java/Spring.
 - 💬 Desenvolvedor junior | Java.
 
