@@ -3,7 +3,7 @@
 
   ## 🤔Sobre mim.
 
-- 📚Estudante de Tecnologia em Analise e Desenvolvimento de Sistemas.
+- 📚Estudante de Data Science pela Uninter.
 - 💼Desenvolvedor full stack junior na [PDA soluções](https://pdasolucoes.com.br/)| Java scritpt/React && Java
 - 💬Evoluindo dia após dia!  
 
