@@ -4,7 +4,7 @@
   ## 🤔Sobre mim.
 
 - 📚Estudante de Data Science pela Uninter.
-- 💼Desenvolvedor full stack junior na [PDA soluções](https://pdasolucoes.com.br/)| Java scritpt/React && Java
+- 💼Desenvolvedor full stack na [PDA soluções](https://pdasolucoes.com.br/)| Java scritpt/React && Java
 - 💬Evoluindo dia após dia!  
 
 ## 🔎Onde me encontrar?
