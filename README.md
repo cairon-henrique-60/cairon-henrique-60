@@ -4,7 +4,7 @@
   ## 🤔Sobre mim.
 
 - 📚Estudante de Data Science pela Uninter.
-- 💼Desenvolvedor full stack na [PDA soluções](https://pdasolucoes.com.br/)| Java scritpt/React && Java
+- 💼Desenvolvedor full stack na [PDA soluções](https://pdasolucoes.com.br/)
 - 💬Evoluindo dia após dia!  
 
 ## 🔎Onde me encontrar?
@@ -15,19 +15,25 @@
 ![image](https://user-images.githubusercontent.com/90021073/146655442-280c1291-6812-4ffc-9ee7-30726076b472.png)
 ##
 ###  🛠 Linguagens:
-![image](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
 ![image](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
 ![image](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
-![image](https://user-images.githubusercontent.com/90021073/146654924-53adba63-593d-4e1f-a7c6-cc965bbf7ac2.png)
-![image](https://user-images.githubusercontent.com/90021073/146654934-317f24a1-edce-4379-bfb7-233e917a9d66.png)
+![image](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![image](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
+
 ##
 ###  💻 Ferramentas:
-![image](https://user-images.githubusercontent.com/90021073/146653718-71837640-ce68-44ec-9087-efb549afc9bb.png)
-![image](https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white)
 ![image](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![image](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white)
+![image](https://img.shields.io/badge/Jest-323330?style=for-the-badge&logo=Jest&logoColor=white)
+![image](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
+![image](https://img.shields.io/badge/styled--components-DB7093?style=for-the-badge&logo=styled-components&logoColor=white)
+![image](https://img.shields.io/badge/Redux-593D88?style=for-the-badge&logo=redux&logoColor=white)
+![image](https://img.shields.io/badge/Microsoft_SQL_Server-CC2927?style=for-the-badge&logo=microsoft-sql-server&logoColor=white)
 ##
 ###  📦 Banco de dados:
-![image](https://user-images.githubusercontent.com/90021073/146653733-d0a73257-a0d5-4094-a1ab-aed010eabb7c.png)<br>
+![image](https://user-images.githubusercontent.com/90021073/146653733-d0a73257-a0d5-4094-a1ab-aed010eabb7c.png)
+![image](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
+![image](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
 ##
 <div align = "center">
   <a href="https://github.com/cairon-henrique-60">
