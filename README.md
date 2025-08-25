@@ -3,7 +3,7 @@
 
   ## 🤔Sobre mim.
 
-- 📚Estudante de Data Science pela Uninter.
+- 📚Formado em Data Science pela Uninter.
 - 💼Desenvolvedor full stack na [PDA soluções](https://pdasolucoes.com.br/)
 - 💬Evoluindo dia após dia!  
 
